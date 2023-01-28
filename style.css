@@ -1,0 +1,21 @@
+.dark{
+    background-color: rgba(0, 0, 0, 0.863);
+}
+.dark2{
+    background-color: rgb(255, 255, 255);
+}
+.big2{
+    color: aqua;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.button button{
+    background-color: aqua;
+    border-radius: 20px;
+    font-size: 50px;
+}
